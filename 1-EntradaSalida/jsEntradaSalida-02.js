@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Debemos lograr tomar un nombre con 'prompt' 
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
@@ -13,3 +14,13 @@ y el dato se almacena en la variable name */
 el nombr que ingresó el usuario */
   alert(name);
 }
+=======
+/*
+Debemos lograr tomar un nombre con 'prompt' 
+y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
+function mostrar()
+{
+	alert("ok");
+}
+
+>>>>>>> 0eec114db8f5b59ac6f00170ea15ba2054a309a5
