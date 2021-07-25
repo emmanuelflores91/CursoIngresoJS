@@ -13,7 +13,7 @@ function mostrar()
 		{
 			numeros = parseInt(prompt("Ingrese un número:"));
 
-			while (isNaN(numeros))
+			while (isNaN(numeros)) // no es un numero (v o f)
 			{
 				numeros = parseInt(prompt("Usted no ingresó un número.\nIntente nuevamente:"));
 			}
