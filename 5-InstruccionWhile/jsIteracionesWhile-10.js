@@ -45,6 +45,7 @@ let
         {
             sumaPositivos += numeros;
             cantidadPositivos ++; 
+            
         }
         else if(numeros < 0)
         {
